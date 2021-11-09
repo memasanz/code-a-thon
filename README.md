@@ -50,10 +50,19 @@ parquet files with Azure ML.
 Great Resources
 ---------------
 
+### Training Materials
 <https://github.com/MicrosoftLearning/mslearn-dp100>
 
 <https://github.com/Azure-Samples/Synapse/tree/main/Notebooks/PySpark>
 
+### Using Modin
+
 <https://docs.microsoft.com/en-us/azure/machine-learning/concept-optimize-data-processing>
+
 <https://medium.com/distributed-computing-with-ray/how-to-speed-up-pandas-with-modin-84aa6a87bcdb>
+
 <https://modin.readthedocs.io/en/latest/>
+
+### Using batch endpoints
+
+<https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-batch-endpoints-studio>
