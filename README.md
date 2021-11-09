@@ -41,6 +41,11 @@ parquet files with Azure ML.
 -   [005 Consume Rest Point to Populate a
     Datset.ipynb](005%20Consume%20Rest%20Point%20to%20Populate%20a%20Datset.ipynb)-
     Training a model leveraing AML Compute Cluster
+    
+-   [RegisterAMLDatasetinSynapse.ipynb](RegisterAMLDatasetinSynapse.ipynb)-
+    Register a Dataset from within Synapse via Linked Service to AML
+    
+
 
 Great Resources
 ---------------
