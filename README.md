@@ -15,7 +15,7 @@ Data can be found in the data folder, these sample notebooks are working with pa
 
 - [004_inference_pipeline-parquet.ipynb](004_inference_pipeline-parquet.ipynb) - Training a model leveraing AML Compute Cluster
 
-- 005 Consume Rest Point to Populate a Datset.ipynb - Training a model leveraing AML Compute Cluster
+- [005 Consume Rest Point to Populate a Datset.ipynb](005 Consume Rest Point to Populate a Datset.ipynb) - Training a model leveraing AML Compute Cluster
 
 
 
