@@ -53,3 +53,7 @@ Great Resources
 <https://github.com/MicrosoftLearning/mslearn-dp100>
 
 <https://github.com/Azure-Samples/Synapse/tree/main/Notebooks/PySpark>
+
+<https://docs.microsoft.com/en-us/azure/machine-learning/concept-optimize-data-processing>
+<https://medium.com/distributed-computing-with-ray/how-to-speed-up-pandas-with-modin-84aa6a87bcdb>
+<https://modin.readthedocs.io/en/latest/>
