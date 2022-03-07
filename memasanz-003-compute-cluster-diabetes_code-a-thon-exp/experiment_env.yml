@@ -1,0 +1,13 @@
+name: experiment_env
+dependencies:
+  # The python interpreter version.
+  # Currently Azure ML only supports 3.5.2 and later.
+- python=3.6.2
+- scikit-learn
+- ipykernel
+- matplotlib
+- pandas
+- pip
+- pip:
+  - azureml-defaults
+  - pyarrow
