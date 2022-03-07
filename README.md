@@ -30,9 +30,6 @@ parquet files with Azure ML.
 
 -   [004_DeployToACI.ipynb](004_DeployToACI.ipynb) – Deploying a model to ACI
 
--   [005_inference_pipeline_csv.ipynb](005_inference_pipeline_csv.ipynb) –
-    Inferencing Pipeline
-
 -   [005_inference_pipeline-parquet.ipynb](005_inference_pipeline-parquet.ipynb)
     – Inferencing Pipeline
 
