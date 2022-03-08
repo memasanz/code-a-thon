@@ -3,7 +3,7 @@ code-a-thon
 
 intro-into-leveraging-aml
 
-Signing up for a free account & setup an Azure ML Workspace: [Code A Thon Sign Up](CodeAThon.md)
+Signing up for a free account & setup an Azure ML Workspace: [Azure Account Signup and AML Workspace Deployment](CodeAThon.md)
 
 
 
