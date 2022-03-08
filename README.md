@@ -3,14 +3,12 @@ code-a-thon
 
 intro-into-leveraging-aml
 
-Signing up for a free account: [Code A Thon Sign Up](CodeAThon.md)
+Signing up for a free account & setup an Azure ML Workspace: [Code A Thon Sign Up](CodeAThon.md)
 
-A screenshot of a computer Description automatically generated with medium
-confidence
+
 
 ![Graphical user interface, text Description automatically generated](media/e77c38939932afe3b27c7da9a98ee6c4.png)
 
-Graphical user interface, text Description automatically generated
 
 About this Repository:
 ----------------------
