@@ -5,7 +5,7 @@ intro-into-leveraging-aml
 
 Signing up for a free account & setup an Azure ML Workspace: [Azure Account Signup and AML Workspace Deployment](CodeAThon.md)
 
-
+This is a source code repo demonstrating how to use Azure ML - but don't forget about AutoML.  
 
 ![Graphical user interface, text Description automatically generated](media/e77c38939932afe3b27c7da9a98ee6c4.png)
 
