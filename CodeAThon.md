@@ -1,4 +1,4 @@
-Go to [account.microsoft.com](account.microsoft.com), select Sign in, and then choose Create one!
+Go to [account.microsoft.com](https://account.microsoft.com/), select Sign in, and then choose Create one!
 
 
 ![](media/d540e7ec75b89f9897c318f820597d7b.png)
